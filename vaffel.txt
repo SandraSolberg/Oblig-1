@@ -3,3 +3,5 @@ mel
 vann
 sukker
 kanel
+
+miks
